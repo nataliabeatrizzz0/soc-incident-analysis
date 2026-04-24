@@ -1,17 +1,12 @@
-# 🔍 Findings
+# 🔍 Descobertas
 
-## 📌 Principais pontos identificados:
+## 📌 Pontos identificados:
+- Atividade suspeita de login;
+- Padrão compatível com força bruta (brute force);
+- Acesso fora do horário comercial.
 
-- Atividade suspeita de login
-- Padrão compatível com brute force
-- Acesso fora do horário comercial
-
-## 🧠 Conclusão:
-
-Há indícios de comprometimento de credenciais.
-
-## 🔐 Recomendações:
-
-- Implementar MFA
-- Monitoramento contínuo
-- Política de bloqueio por tentativas
+## 🧠 Considerações finais:
+Há indícios de comprometimento de credenciais, sendo recomendado:
+- Implementar autenticação com multifator - MFA;
+- Monitoramento contínuo desse user;
+- Implentar política de bloqueio por tentativas.
