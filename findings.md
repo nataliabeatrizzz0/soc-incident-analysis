@@ -9,4 +9,4 @@
 Há indícios de comprometimento de credenciais, sendo recomendado:
 - Implementar autenticação com multifator - MFA;
 - Monitoramento contínuo desse user;
-- Implentar política de bloqueio por tentativas.
+- Adotar política de bloqueio por tentativas.
